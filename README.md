@@ -1,6 +1,11 @@
 # project-frontend
 
-> A Vue.js project
+> A Vue.js SPA project
+>单页面应用好处
+>
+>1一次加载 减少网络流量
+>
+>2可以打包成手机app（dist目录）
 
 ## Build Setup
 
